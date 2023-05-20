@@ -9,7 +9,7 @@
 
 | 🔭 | About Me | Description  |
 | --------|-----------| ----------- |
-| 👀 | **View My LinkedIn Profile**: | [*👉 LinkedIn Profile (click)*](https://https://www.linkedin.com/in/m-i-c-h-a-e-l-r-o-d-r-i-g-u-e-z/) |
+| 👀 | **View My LinkedIn Profile**: | [*👉 LinkedIn Profile (click)*](www.linkedin.com/in/m-i-c-h-a-e-l-r-o-d-r-i-g-u-e-z/) |
 | 📚 | **What I’m learning**: | [*👉 AWS Certifications*] |
 | 🤔 | **Please help me with**: |*HuggingFace NLP Models* |
 | 🌊 | **Random Fun fact**: | *Shall we play a game? I love CHESS!! <-- NERD* |
