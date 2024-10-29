@@ -1,6 +1,6 @@
 <h1 align="center"> Michael's Github Portfolio</h1>
 
-<h3 align="center">  Tech Professional | Senior Business Analyst | Project Management </h3> 
+<h3 align="center">  CyberDigital Professional | Business Analyst | Project Management </h3> 
 
 <pre><code> 
 🟣 Connect with me on LinkedIn or reach out with any questions/feedback, Thanks!✊
