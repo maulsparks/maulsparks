@@ -10,6 +10,4 @@
 | 🔭 | About Me | Description  |
 | --------|-----------| ----------- |
 | 👀 | **View My LinkedIn Profile**: | [*👉 LinkedIn Profile (click)*](https://www.linkedin.com/in/michaelrodriguez2169) |
-| 📚 | **What I’m learning**: | [*👉 AWS Certifications*] |
-| 🤔 | **Please help me with**: |*HuggingFace NLP Models* |
-| 🌊 | **Random Fun fact**: | *Shall we play a game? I love CHESS!! <-- NERD* |
+| 📚 | **What I’m learning**: | [*👉 Agentic AI Workflows*] |
